@@ -5,7 +5,7 @@ import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import pages.MainPageHelper;
-import tests.util.DataProviders;
+import util.DataProviders;
 
 public class MainPageTests extends TestBase{
     MainPageHelper mainPage;
